@@ -4,21 +4,21 @@ Comparing Metacritic and Rotten Tomatoes to see who can better predict CinemaSco
 
 (1) movies.R - pulls a list of movies from my iTunes Library
 
-  --> MList.csv (109 Data Points)
+    --> MList.csv (109 Data Points)
   
 (2) movies.py - uses BeuatifulSoup to parse rotten tomatoes and prints each movies tomatoscores to a new csv
 
-  --> TomatoList.csv (104 Data Points)
+    --> TomatoList.csv (104 Data Points)
   
 (3) meta _ movies.py - uses an Open Movies Database API to pull metacritic scores for each movie and save them to a csv
 
-  --> MeatList.csv (92 Data Points)
+    --> MeatList.csv (92 Data Points)
   
 (4) cinema _ movies.py - uses pyautogui to save each movies cinema score as an image to be added to a csv manually
 
-  --> CimenaList1.csv (53 Data Points) - Contains only movies for which the script correctly pulled the score
+    --> CimenaList1.csv (53 Data Points) - Contains only movies for which the script correctly pulled the score
   
-  --> CinemaList2.csv (84 Data Points) - Contains movies in CinemaList1 with the gaps filled in by hand
+    --> CinemaList2.csv (84 Data Points) - Contains movies in CinemaList1 with the gaps filled in by hand
   
 __Plans__
 
