@@ -25,7 +25,13 @@ Comparing Metacritic and Rotten Tomatoes to see who can better predict CinemaSco
         --> BofficeList.csv (49 Data Points) - uses CinemaList1.csv as base
         
         --> BofficeList2.csv (76 Data Points) - uses CinemaList2.csv as base
+        
+(6) regression _ movies.R - Cleans and tries to find relationships between the data. Spoilers: There are none
+
+        --> RList.csv (49 Data Points)
 
 __Plans__
 
-(6) Send back to R for statistical Analysis and Visualization
+(7) Try to find some cool visualizations anyways
+
+(8) Repeat steps 6 & 7 with CinemaList2 to see if the extra data helps at all
