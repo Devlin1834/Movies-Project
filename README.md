@@ -19,6 +19,8 @@ Comparing Metacritic and Rotten Tomatoes to see who can better predict CinemaSco
     --> CimenaList1.csv (53 Data Points) - Contains only movies for which the script correctly pulled the score
   
     --> CinemaList2.csv (84 Data Points) - Contains movies in CinemaList1 with the gaps filled in by hand
+    
+    --> Cinema Folder Contains the image results of the script
   
 (5) boffice _ movies.py - uses the Open Movies Database API to get the boxoffice numbers for each remaining movies
         
@@ -29,6 +31,8 @@ Comparing Metacritic and Rotten Tomatoes to see who can better predict CinemaSco
 (6) regression _ movies.R - Cleans and tries to find relationships between the data. Spoilers: There are none
 
         --> RList.csv (49 Data Points)
+        
+        --> Reg Vis folder contains the charts returned from the script
 
 __Plans__
 
