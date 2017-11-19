@@ -20,8 +20,12 @@ Comparing Metacritic and Rotten Tomatoes to see who can better predict CinemaSco
   
     --> CinemaList2.csv (84 Data Points) - Contains movies in CinemaList1 with the gaps filled in by hand
   
-__Plans__
+(5) boffice _ movies.py - uses the Open Movies Database API to get the boxoffice numbers for each remaining movies
+        
+        --> BofficeList.csv (49 Data Points) - uses CinemaList1.csv as base
+        
+        --> BofficeList2.csv (76 Data Points) - uses CinemaList2.csv as base
 
-(5) Pull Box Office Data for each film
+__Plans__
 
 (6) Send back to R for statistical Analysis and Visualization
