@@ -1,0 +1,50 @@
+"","Movie","TomatoScore","MetaScore","CinemaScore","BoxOffice","Cinema.Num"
+"1","Inception",86,74,"B+",292568851,70
+"2","X Men First Class",86,65,"B+",145300000,70
+"3","Captain America The First Avenger",80,66,"A-",176636816,80
+"4","Wreck it Ralph",87,72,"A",189412677,90
+"5","X Men Days of Future Past",91,74,"A",199305306,90
+"6","Star Wars Episode VII The Force Awakens",93,81,"A",936658640,90
+"7","Thor The Dark World",66,54,"A-",206360018,80
+"8","Zootopia",98,78,"A",341264012,90
+"9","The Hobbit The Desolation of Smaug",75,66,"A-",180443783,80
+"10","Captain America Civil War",91,75,"A",408080554,90
+"11","Deadpool",84,65,"A",328674489,90
+"12","Casino Royale",94,80,"A-",167007184,80
+"13","Batman Begins",84,70,"A",204100000,90
+"14","Fantastic Beasts and Where to Find Them",74,66,"A-",234018657,80
+"15","Superman Man of Steel",55,55,"A-",291021565,80
+"16","Avatar",84,83,"A",749700000,90
+"17","X2 XMen United",86,68,"A",214813155,90
+"18","Monsters Inc",96,78,"A+",34034168,100
+"19","Transformers Revenge of the Fallen",19,35,"B+",402076689,70
+"20","The Incredible Hulk",67,61,"A-",134518390,80
+"21","Tangled",89,71,"A+",200803309,100
+"22","Transformers Dark of the Moon",35,42,"A",352358779,90
+"23","Iron Man 3",79,62,"A",408992272,90
+"24","Iron Man 2",73,57,"A",312057433,90
+"25","The Hobbit An Unexpected Journey",64,58,"A",303001229,90
+"26","Transformers Age of Extinction",18,32,"A-",206755538,80
+"27","Captain America The Winter Soldier",89,70,"A",228636083,90
+"28","Skyfall",93,81,"A",299300000,90
+"29","The Dark Knight Rises",87,78,"A",448130642,90
+"30","Pacific Rim 2013",71,64,"A-",101785482,80
+"31","Kubo and the Two Strings",97,84,"A",48019281,90
+"32","Batman v Superman Dawn of Justice",27,44,"B",293792936,60
+"33","Jurassic World",71,59,"A",528757749,90
+"34","Over the Hedge",75,67,"A",155019340,90
+"35","Rise of the Planet of the Apes",81,68,"A-",175300000,80
+"36","Dawn of the Planet of the Apes",90,79,"A-",183278877,80
+"37","Guardians of the Galaxy Vol 2",82,67,"A",389804217,90
+"38","The Royal Tenenbaums",80,76,"C-",52307676,20
+"39","Super 8",82,72,"B+",126975169,70
+"40","American Hustle",93,90,"B+",99165609,70
+"41","The Hobbit The Battle of the Five Armies",60,59,"A-",187747747,80
+"42","The Martian",92,80,"A",202313768,90
+"43","Django Unchained",87,81,"A-",162804648,80
+"44","Spider Man Homecoming",92,73,"A",333125680,90
+"45","The Lord of the Rings The Fellowship of the Ring",91,92,"A-",314000000,80
+"46","The Lord of the Rings The Two Towers",96,88,"A",339700000,90
+"47","Bourne Identity",83,68,"A-",121500000,80
+"48","Men in Black III",68,58,"B+",179020854,70
+"49","The Lord of the Rings The Return of the King",94,94,"A+",364000000,100
