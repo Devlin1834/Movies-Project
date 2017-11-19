@@ -1,6 +1,7 @@
 setwd("D:/Files/Psdir/movies")
 
 movies <- read.csv('BofficeList.csv', header = FALSE)
+#movies <- read.csv('BofficeList2.csv', header = FALSE)
 head(movies)
 
 # So first I need to convert the cinema score grades to numbers. I might end up using
@@ -22,6 +23,7 @@ cinema_letters[] <- lapply(movies[4], cinema_convert)
 movies[6] <- cinema_letters
 colnames(movies) <- c("Movie", "TomatoScore", "MetaScore", "CinemaScore", "BoxOffice", "Cinema.Num")
 write.csv(movies, 'RList.csv')
+#write.csv(movies, 'RList2.csv')
 
 summary(movies)
 
