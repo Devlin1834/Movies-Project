@@ -34,8 +34,4 @@ Comparing Metacritic and Rotten Tomatoes to see who can better predict CinemaSco
         
         --> Reg Vis folder contains the charts returned from the script
 
-__Plans__
-
-(7) Try to find some cool visualizations anyways
-
-(8) Repeat steps 6 & 7 with CinemaList2 to see if the extra data helps at all
+(7) vis _ movies.r - makes pictures with my data
